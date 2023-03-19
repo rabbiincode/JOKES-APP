@@ -1,0 +1,152 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background-color: lightgray;
+  padding: 0 10px;
+  overflow-x: hidden;
+}
+
+.navbar-toggler {
+    background-color: wheat;
+    border: 1px solid white;
+}
+
+.navbar-toggler :focus {
+    box-shadow: none;
+}
+
+.click :hover {
+    background: blue;
+    color: black;
+    border-radius: 10px;
+}
+
+.register {
+    border-bottom: 1px solid blue;
+    margin-right: 8px;
+}
+
+.login {
+    background: blue;
+    border-radius: 10px;
+}
+
+@media (max-width: 575px) {
+    .click :hover {
+        background: none;
+    }
+    .register {
+        border-bottom: none;
+        color: red;
+    }
+    .login {
+        background: none;
+    }
+}
+
+.topGap {
+    padding-top: 60px;
+}
+
+input {
+    outline: none;
+}
+
+.centerDiv {
+    justify-content: center;
+    outline: solid 1px gray;
+    margin-top: 20vh;
+    padding: 20px 10px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    box-shadow: 10px 8px blue, -1em 0 .8em gray;
+}
+
+img {
+    aspect-ratio: 2/1;
+}
+
+@media (max-width: 991px) {
+    img {
+        aspect-ratio: 2/3;
+    }
+}
+
+.btn:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+input {
+    outline: none;
+    box-shadow: none;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    height: 100px;
+    width: 100px;
+    outline: black;
+    background-size: 100%, 100%;
+    border-radius: 50%;
+    border: 1px solid royalblue;
+    background-image: none;
+}
+
+.carousel-control-next-icon:after {
+    content: '>';
+    font-size: 55px;
+    color: blue;
+}
+
+.carousel-control-prev-icon:after {
+    content: '<';
+    font-size: 55px;
+    color: blue;
+}
+
+.carousel-indicators [data-bs-target] {
+    width: 15px;
+    height: 15px;
+    background-color: royalblue;
+    border-radius: 100%;
+}
+
+.carousel-indicators .active {
+    background-color: blue;
+}
+
+
+/* width */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #FFFFFF;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: blue;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #9365f5;
+}

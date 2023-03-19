@@ -1,0 +1,361 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\JOKES.bundle.scp.css",
+      "PackagePath": "staticwebassets\\JOKES.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\Images\\home.png",
+      "PackagePath": "staticwebassets\\Images\\home.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\Images\\p1.png",
+      "PackagePath": "staticwebassets\\Images\\p1.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\Images\\p10.jpg",
+      "PackagePath": "staticwebassets\\Images\\p10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\Images\\p11.jpg",
+      "PackagePath": "staticwebassets\\Images\\p11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\Images\\p12.jpg",
+      "PackagePath": "staticwebassets\\Images\\p12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\Images\\p13.jpg",
+      "PackagePath": "staticwebassets\\Images\\p13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\Images\\p14.jpg",
+      "PackagePath": "staticwebassets\\Images\\p14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\Images\\p15.jpg",
+      "PackagePath": "staticwebassets\\Images\\p15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\Images\\p16.jpg",
+      "PackagePath": "staticwebassets\\Images\\p16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\Images\\p17.jpg",
+      "PackagePath": "staticwebassets\\Images\\p17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\Images\\p18.jpg",
+      "PackagePath": "staticwebassets\\Images\\p18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\Images\\p19.jpg",
+      "PackagePath": "staticwebassets\\Images\\p19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\Images\\p2.png",
+      "PackagePath": "staticwebassets\\Images\\p2.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\Images\\p20.jpg",
+      "PackagePath": "staticwebassets\\Images\\p20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\Images\\p21.jpg",
+      "PackagePath": "staticwebassets\\Images\\p21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\Images\\p22.jpg",
+      "PackagePath": "staticwebassets\\Images\\p22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\Images\\p23.jpeg",
+      "PackagePath": "staticwebassets\\Images\\p23.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\Images\\p3.png",
+      "PackagePath": "staticwebassets\\Images\\p3.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\Images\\p4.png",
+      "PackagePath": "staticwebassets\\Images\\p4.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\Images\\p5.png",
+      "PackagePath": "staticwebassets\\Images\\p5.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\Images\\p6.png",
+      "PackagePath": "staticwebassets\\Images\\p6.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\Images\\p7.jpg",
+      "PackagePath": "staticwebassets\\Images\\p7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\Images\\p8.jpg",
+      "PackagePath": "staticwebassets\\Images\\p8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\Images\\p9.jpg",
+      "PackagePath": "staticwebassets\\Images\\p9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\source\\repos\\JOKES\\JOKES\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.JOKES.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.JOKES.props",
+      "PackagePath": "build\\JOKES.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.JOKES.props",
+      "PackagePath": "buildMultiTargeting\\JOKES.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.JOKES.props",
+      "PackagePath": "buildTransitive\\JOKES.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
