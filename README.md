@@ -38,18 +38,18 @@ Run Migration e.g
 Run the program
 😍😍Enjoy😍😍
 
-Packages Installed 👓
-AutoMapper
-AutoMapper.Extensions.Microsoft.DependencyInjection
-Microsoft.EntityFrameworkCore
-Microsoft.EntityFrameworkCore.Design
-Microsoft.EntityFrameworkCore.SqlServer
-Microsoft.EntityFrameworkCore.Tools
-Microsoft.AspNetCore.Mvc.ViewFeatures
-Microsoft.AspNetCore.Http.Abstractions
-System.ComponentModel.Annotations
-Software Development Summary 👓
-Technology: C#, EF CORE & ASP.Net MVC
-Console App Framework: .NET6
-IDE: Visual Studio (Version 2022)
+> Packages Installed 👓
+> AutoMapper
+> AutoMapper.Extensions.Microsoft.DependencyInjection
+> Microsoft.EntityFrameworkCore
+> Microsoft.EntityFrameworkCore.Design
+> Microsoft.EntityFrameworkCore.SqlServer
+> Microsoft.EntityFrameworkCore.Tools
+> Microsoft.AspNetCore.Mvc.ViewFeatures
+> Microsoft.AspNetCore.Http.Abstractions
+> System.ComponentModel.Annotations
+> Software Development Summary 👓
+> Technology: C#, EF CORE & ASP.Net MVC
+> Console App Framework: .NET6
+> IDE: Visual Studio (Version 2022)
 Paradigm or pattern of programming: Object-Oriented Programming (OOP)
