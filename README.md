@@ -66,10 +66,6 @@ Run the program
 
 > Packages Installed 👓
 
-> AutoMapper
-
-> AutoMapper.Extensions.Microsoft.DependencyInjection
-
 > Microsoft.EntityFrameworkCore
 
 > Microsoft.EntityFrameworkCore.Design
@@ -86,7 +82,7 @@ Run the program
 
 > Software Development Summary 👓
 
-> Technology: C#, EF CORE & ASP.Net MVC
+> Technology: C#, EF-CORE & ASP.Net MVC
 
 > Console App Framework: .NET6
 
