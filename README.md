@@ -1,11 +1,11 @@
-Jokes Application using ASP.NET MVC 😊🤣😂
+Jokes Application using ASP.NET MVC 😊🤣😂--
 
-About 👓
-This is a jokes application using ASP.NET MVC that has features such as User login and Authentication, Implements full C.R.U.D operations and more.
+About 👓--
+This is a jokes application using ASP.NET MVC that has features such as User login and Authentication, Implements full C.R.U.D operations and more.--
 
-What the App Does 👓
-Anonymous Users can visit the application and read jokes but are not allowed to perform any operations on the application.
-Only Authenticated users can Create, Update and Delete jokes.
+What the App Does 👓--
+Anonymous Users can visit the application and read jokes but are not allowed to perform any operations on the application.--
+Only Authenticated users can Create, Update and Delete jokes.--
 All operations are stored in the SQL database.
 
 Steps to Run 👓
