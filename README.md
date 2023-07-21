@@ -18,9 +18,9 @@ Follow the following steps to successfully setup and run this application.
 
 Paste your system's server name on the Connection String.
 
-To find the connection string, open the JOKES.MVC project.
+To find the connection string, open the solution explorer.
 
-Open the solution explorer, locate the appsettings.json file at the bottom and open it.
+Open the JOKES.MVC project, locate the appsettings.json file at the bottom and open it.
 
 Edit the connection string and paste your system server name in the Data Source value of the DefaultConnection key.
 
